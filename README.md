@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ankitabi/DeepLearning/edit
 
 
 <img src="https://github.com/ankitabi/DeepLearning/blob/master/imgs.PNG" alt="alt text">
-![Image of Yaktocat](https://github.com/ankitabi/DeepLearning/blob/master/horse.jpg = 100*100)
+[Image of Yaktocat](https://github.com/ankitabi/DeepLearning/blob/master/horse.jpg = 100*100)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
