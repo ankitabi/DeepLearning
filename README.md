@@ -2,6 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/ankitabi/DeepLearning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+
 <img src="https://github.com/ankitabi/DeepLearning/blob/master/imgs.PNG" alt="alt text">
 ![Image of Yaktocat](https://github.com/ankitabi/DeepLearning/blob/master/horse.jpg = 100*100)
 
